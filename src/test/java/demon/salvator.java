@@ -11,6 +11,8 @@ public class salvator {
 	public void stephen()
 	{
 		System.out.println("stephen salvator");
+		System.out.println("stephen salvator");
+		System.out.println("stephen salvator");
 	}
 
 }
